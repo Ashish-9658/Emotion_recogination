@@ -1,15 +1,5 @@
-# Emotion_recogination
-😊 Emotion Recognition Project
-Description
+🎭 Emotion Recognition
 
-This project detects and recognizes human emotions using machine learning techniques. It identifies emotions such as Happy, Sad, Angry, Neutral, etc., from input data like images or video.
+A simple project that detects human emotions like 😊 Happy, 😢 Sad, 😠 Angry, and 😐 Neutral using Machine Learning.
 
-Technologies Used
-
-Python
-
-OpenCV
-
-TensorFlow / Keras
-
-NumPy
+Tech: Python • OpenCV • TensorFlow/Keras
